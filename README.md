@@ -3,13 +3,6 @@
 - The Aim of this application is to form a bridge between Buses and customers.
 - project code = -tired-calendar-1389
 
-# Team members:
-1. Rahul Rathore
-2. Tanuj Pant
-3. Ashish Yadav
-4. Saurabh Patel
-5. Shashi Ranjan
-
 # problem statement
 - 	The Aim of this application is to form a bridge between Buses and customers.
 - 	The Bus owners must be able to sign in to the application to create and list out their Bus along with the fare price 
